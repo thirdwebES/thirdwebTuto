@@ -1,0 +1,7 @@
+# https://www.gitignore.io/docs
+
+### .env ###
+.env*
+.env.local
+.env.development.local
+
